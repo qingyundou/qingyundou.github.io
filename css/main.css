@@ -54,3 +54,7 @@ ul.posts li {
   margin-right: auto;
   width: 50%;
 }
+
+body {
+  background-color: black;
+}
